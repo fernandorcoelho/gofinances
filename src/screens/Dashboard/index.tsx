@@ -18,6 +18,8 @@ export const Dashboard = () => {
               <S.Username>Fernando</S.Username>
             </S.User>
           </S.UserInfo>
+
+          <S.Icon name="power" />
         </S.UserWrapper>
       </S.Header>
     </S.Container>
